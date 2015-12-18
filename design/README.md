@@ -13,6 +13,7 @@ Here at TacoWolf we like to use [Sans-serif Fonts](https://en.wikipedia.org/wiki
 You know what looks really good? [Raleway](https://www.google.com/fonts/specimen/Raleway "Raleway on Google Fonts"). We here at TacoWolf live for Raleway's simplicity and readability. It's our aesthetic, you could say. 
 
 ![TacoWolf in Raleway](http://i.imgur.com/h9IveBa.png "damn straight")
+
 *<small> Look at that. Shit's nice. </small>*
 
 If you want to use a font in any of TacoWolf's websites or documents, you best be using Raleway. Otherwise, get out.
@@ -22,6 +23,7 @@ If you want to use a font in any of TacoWolf's websites or documents, you best b
 Alright, can't use Raleway for some reason? Fine. I get you. You're a rebel. But still, use something nice. We think of fonts like [Droid Sans](https://www.google.com/fonts/specimen/Droid+Sans "Droid Sans on Google Fonts") for secondary fonts. 
 
  ![TacoWolf in Droid Sans](http://i.imgur.com/gKAybiy.png "Yeah, that's pretty cool.")
+
 *<small>It's pretty cool. Not as much as Raleway, though.</small>*
 
 If you REALLY can't use Raleway or Droid Sans, please use Arial.
@@ -43,6 +45,7 @@ If you REALLY can't use Raleway or Droid Sans, please use Arial.
 TacoWolf's color palette is supposed to remind you of the 80s and 90s with it's really cool dark terminal feeling, making you feel like a hacker or a programmer without knowing any code. We know how awesome it feels to be programmers, so we want others to feel the same way.  We feel like the whole `1337 hacker` aesthetic is pretty sweet, but we still want a sense of professionalism when presenting information. That's why when we make something, we'll use this color scheme to show it. Also, people who like dark color schemes will love it. Easier on the eyes. 
 
 ![](http://i.imgur.com/wf20GEo.jpg "us.jpg")
+
 *<small>This is basically us.</small>*
 
 ####Background
