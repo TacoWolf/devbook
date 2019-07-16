@@ -1,14 +1,12 @@
-#Design
-
-##TacoWolf Design Standards
+# Design
 
 At TacoWolf, we like to look pretty, so we adhere to these standards.
 
-##Fonts
+## fonts
 
 Here at TacoWolf we like to use [Sans-serif Fonts](https://en.wikipedia.org/wiki/Sans-serif "Sans-serif on Wikipedia"). We believe that Sans-serif is cool and it lets us live in the future, and not in the past. (I mean, who uses Serif fonts anymore? Exactly.)
 
-###Primary
+### primary
 
 You know what looks really good? [Raleway](https://www.google.com/fonts/specimen/Raleway "Raleway on Google Fonts"). We here at TacoWolf live for Raleway's simplicity and readability. It's our aesthetic, you could say. 
 
@@ -18,7 +16,7 @@ You know what looks really good? [Raleway](https://www.google.com/fonts/specimen
 
 If you want to use a font in any of TacoWolf's websites or documents, you best be using Raleway. Otherwise, get out.
 
-###Secondary
+### secondary
 
 Alright, can't use Raleway for some reason? Fine. I get you. You're a rebel. But still, use something nice. We think of fonts like [Droid Sans](https://www.google.com/fonts/specimen/Droid+Sans "Droid Sans on Google Fonts") for secondary fonts. 
 
@@ -28,9 +26,9 @@ Alright, can't use Raleway for some reason? Fine. I get you. You're a rebel. But
 
 If you REALLY can't use Raleway or Droid Sans, please use Arial.
 
-##Colors
+## colors
 
-###Palette
+### palette
 |Color|HEX|RGB|
 |---|---|---|
 |Very dark gray|`#151515`|`(21,21,21)`|
@@ -48,7 +46,7 @@ TacoWolf's color palette is supposed to remind you of the 80s and 90s with it's 
 
 *<small>This is basically us.</small>*
 
-####Background
+#### background
 
 <center>![Very dark gray](http://i.imgur.com/sezIBIm.png "#151515")
 ![Dark gray](http://i.imgur.com/ce7YAcs.png "#2A2A2A")
@@ -56,22 +54,22 @@ TacoWolf's color palette is supposed to remind you of the 80s and 90s with it's 
 
 We use ["Very dark gray"](http://www.perbang.dk/rgb/151515/ "Very dark gray on Perbang.dk") (`#151515`/`(21,21,21)`) for our backgrounds. As an alternative background to contrast, we use  ["Dark gray"](http://www.perbang.dk/rgb/2A2A2A/ "Very dark gray on Perbang.dk") (`#2A2A2A`/`(42,42,42)`).  
 
-####Headings
+#### headings
 <center>![Luminous vivid green](http://i.imgur.com/PFdH6vu.png "#00FF00")</center>
 
 Headings should jump out at you, y'know? They show information, and sum it up all in one fell swoop. We think that a ["Luminous vivid green"](http://www.perbang.dk/rgb/00FF00/ "Luminous vivid green on Perbang.dk") color lets headers jump out and makes text feel alive.
 
-####Text
+#### text
 <center>![Light gray](http://i.imgur.com/R5l8pkV.png "#EEEEEE")</center>
 
 We hold true that Text is one of the most important things that you can present, but we don't want to have it intrude.  That's why we use a ["Light gray"](http://www.perbang.dk/rgb/151515/ "Light gray on Perbang.dk")  (`#EEEEEE`/`(238,238,238)`) color for all of our not-header text.
 
-####Highlight
+#### highlight
 <center>![Luminous vivid orange](http://i.imgur.com/Q1NTCab.png "#FF8700")</center>
 http://i.imgur.com/Q1NTCab.png
 
 We believe that text that you want highlighted should stand out from the rest. That's why ["Luminous vivid orange"](http://www.perbang.dk/rgb/FF8700/ "Luminous vivid orange on Perbang.dk")  (`#FF8700`/`(255,135,0)`) is the color we chose for highlighting text - it's bold, it's different and it gets the job done.
 
-##Layouts
+## layouts
 
 `TO-DO`
